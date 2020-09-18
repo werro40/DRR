@@ -1,7 +1,7 @@
 %initializing variables
 clc
 clear
-s = 202;%matrix size
+s = 203;%matrix size
 t=s/50;
 n=1:t:s;
 H = zeros(s); %Hamiltonian (normalized with ground state energy)
